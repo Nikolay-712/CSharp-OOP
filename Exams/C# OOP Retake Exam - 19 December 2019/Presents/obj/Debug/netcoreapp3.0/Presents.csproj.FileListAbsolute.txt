@@ -1,0 +1,11 @@
+C:\Users\lenovo\Desktop\Presents\bin\Debug\netcoreapp3.0\Presents.exe
+C:\Users\lenovo\Desktop\Presents\bin\Debug\netcoreapp3.0\Presents.deps.json
+C:\Users\lenovo\Desktop\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.json
+C:\Users\lenovo\Desktop\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\Presents\bin\Debug\netcoreapp3.0\Presents.dll
+C:\Users\lenovo\Desktop\Presents\bin\Debug\netcoreapp3.0\Presents.pdb
+C:\Users\lenovo\Desktop\Presents\obj\Debug\netcoreapp3.0\Presents.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Presents\obj\Debug\netcoreapp3.0\Presents.dll
+C:\Users\lenovo\Desktop\Presents\obj\Debug\netcoreapp3.0\Presents.pdb

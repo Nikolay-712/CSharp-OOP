@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\Telecom\bin\Debug\netcoreapp2.1\Telecom.deps.json
+C:\Users\lenovo\Desktop\Telecom\bin\Debug\netcoreapp2.1\Telecom.runtimeconfig.json
+C:\Users\lenovo\Desktop\Telecom\bin\Debug\netcoreapp2.1\Telecom.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\Telecom\bin\Debug\netcoreapp2.1\Telecom.dll
+C:\Users\lenovo\Desktop\Telecom\bin\Debug\netcoreapp2.1\Telecom.pdb
+C:\Users\lenovo\Desktop\Telecom\obj\Debug\netcoreapp2.1\Telecom.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Telecom\obj\Debug\netcoreapp2.1\Telecom.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Telecom\obj\Debug\netcoreapp2.1\Telecom.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Telecom\obj\Debug\netcoreapp2.1\Telecom.dll
+C:\Users\lenovo\Desktop\Telecom\obj\Debug\netcoreapp2.1\Telecom.pdb

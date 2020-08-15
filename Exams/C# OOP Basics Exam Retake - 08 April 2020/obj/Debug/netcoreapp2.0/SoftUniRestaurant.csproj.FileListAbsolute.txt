@@ -1,0 +1,12 @@
+D:\New folder\bin\Debug\netcoreapp2.0\SoftUniRestaurant.deps.json
+D:\New folder\bin\Debug\netcoreapp2.0\SoftUniRestaurant.runtimeconfig.json
+D:\New folder\bin\Debug\netcoreapp2.0\SoftUniRestaurant.runtimeconfig.dev.json
+D:\New folder\bin\Debug\netcoreapp2.0\SoftUniRestaurant.dll
+D:\New folder\bin\Debug\netcoreapp2.0\SoftUniRestaurant.pdb
+D:\New folder\obj\Debug\netcoreapp2.0\SoftUniRestaurant.csprojAssemblyReference.cache
+D:\New folder\obj\Debug\netcoreapp2.0\SoftUniRestaurant.csproj.CoreCompileInputs.cache
+D:\New folder\obj\Debug\netcoreapp2.0\SoftUniRestaurant.AssemblyInfoInputs.cache
+D:\New folder\obj\Debug\netcoreapp2.0\SoftUniRestaurant.AssemblyInfo.cs
+D:\New folder\obj\Debug\netcoreapp2.0\SoftUniRestaurant.dll
+D:\New folder\obj\Debug\netcoreapp2.0\SoftUniRestaurant.pdb
+D:\New folder\obj\Debug\netcoreapp2.0\SoftUniRestaurant.genruntimeconfig.cache

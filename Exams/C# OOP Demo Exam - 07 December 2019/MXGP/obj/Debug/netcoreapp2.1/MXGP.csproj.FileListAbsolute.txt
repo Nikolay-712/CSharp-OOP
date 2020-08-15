@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\MXGP\bin\Debug\netcoreapp2.1\MXGP.deps.json
+C:\Users\lenovo\Desktop\MXGP\bin\Debug\netcoreapp2.1\MXGP.runtimeconfig.json
+C:\Users\lenovo\Desktop\MXGP\bin\Debug\netcoreapp2.1\MXGP.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\MXGP\bin\Debug\netcoreapp2.1\MXGP.dll
+C:\Users\lenovo\Desktop\MXGP\bin\Debug\netcoreapp2.1\MXGP.pdb
+C:\Users\lenovo\Desktop\MXGP\obj\Debug\netcoreapp2.1\MXGP.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MXGP\obj\Debug\netcoreapp2.1\MXGP.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\MXGP\obj\Debug\netcoreapp2.1\MXGP.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\MXGP\obj\Debug\netcoreapp2.1\MXGP.dll
+C:\Users\lenovo\Desktop\MXGP\obj\Debug\netcoreapp2.1\MXGP.pdb

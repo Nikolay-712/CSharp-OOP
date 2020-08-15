@@ -1,0 +1,8 @@
+C:\Users\lenovo\Desktop\TheRace\bin\Debug\netcoreapp2.1\TheRace.deps.json
+C:\Users\lenovo\Desktop\TheRace\bin\Debug\netcoreapp2.1\TheRace.dll
+C:\Users\lenovo\Desktop\TheRace\bin\Debug\netcoreapp2.1\TheRace.pdb
+C:\Users\lenovo\Desktop\TheRace\obj\Debug\netcoreapp2.1\TheRace.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\TheRace\obj\Debug\netcoreapp2.1\TheRace.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\TheRace\obj\Debug\netcoreapp2.1\TheRace.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\TheRace\obj\Debug\netcoreapp2.1\TheRace.dll
+C:\Users\lenovo\Desktop\TheRace\obj\Debug\netcoreapp2.1\TheRace.pdb

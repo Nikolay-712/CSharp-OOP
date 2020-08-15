@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\Skeleton\MortalEngines\obj\Debug\netcoreapp2.1\MortalEngines.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Skeleton\MortalEngines\obj\Debug\netcoreapp2.1\MortalEngines.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Skeleton\MortalEngines\obj\Debug\netcoreapp2.1\MortalEngines.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Skeleton\MortalEngines\bin\Debug\netcoreapp2.1\MortalEngines.deps.json
+C:\Users\lenovo\Desktop\Skeleton\MortalEngines\bin\Debug\netcoreapp2.1\MortalEngines.runtimeconfig.json
+C:\Users\lenovo\Desktop\Skeleton\MortalEngines\bin\Debug\netcoreapp2.1\MortalEngines.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\Skeleton\MortalEngines\bin\Debug\netcoreapp2.1\MortalEngines.dll
+C:\Users\lenovo\Desktop\Skeleton\MortalEngines\bin\Debug\netcoreapp2.1\MortalEngines.pdb
+C:\Users\lenovo\Desktop\Skeleton\MortalEngines\obj\Debug\netcoreapp2.1\MortalEngines.dll
+C:\Users\lenovo\Desktop\Skeleton\MortalEngines\obj\Debug\netcoreapp2.1\MortalEngines.pdb

@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.deps.json
+C:\Users\lenovo\Desktop\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.runtimeconfig.json
+C:\Users\lenovo\Desktop\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.dll
+C:\Users\lenovo\Desktop\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.pdb
+C:\Users\lenovo\Desktop\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.dll
+C:\Users\lenovo\Desktop\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.pdb

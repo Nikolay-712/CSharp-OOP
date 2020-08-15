@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.deps.json
+C:\Users\lenovo\Desktop\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.runtimeconfig.json
+C:\Users\lenovo\Desktop\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.dll
+C:\Users\lenovo\Desktop\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.pdb
+C:\Users\lenovo\Desktop\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.dll
+C:\Users\lenovo\Desktop\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.pdb
