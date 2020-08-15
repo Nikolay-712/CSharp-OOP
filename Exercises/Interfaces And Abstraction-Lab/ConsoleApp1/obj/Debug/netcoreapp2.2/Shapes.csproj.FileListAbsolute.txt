@@ -1,0 +1,3 @@
+C:\Users\lenovo\source\repos\InterfacesAndAbstractionLab\ConsoleApp1\obj\Debug\netcoreapp2.2\Shapes.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\InterfacesAndAbstractionLab\ConsoleApp1\obj\Debug\netcoreapp2.2\Shapes.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\InterfacesAndAbstractionLab\ConsoleApp1\obj\Debug\netcoreapp2.2\Shapes.AssemblyInfo.cs

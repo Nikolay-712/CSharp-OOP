@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\MuOnline\bin\Debug\netcoreapp2.2\MuOnline.deps.json
+C:\Users\lenovo\Desktop\MuOnline\bin\Debug\netcoreapp2.2\MuOnline.runtimeconfig.json
+C:\Users\lenovo\Desktop\MuOnline\bin\Debug\netcoreapp2.2\MuOnline.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\MuOnline\bin\Debug\netcoreapp2.2\MuOnline.dll
+C:\Users\lenovo\Desktop\MuOnline\bin\Debug\netcoreapp2.2\MuOnline.pdb
+C:\Users\lenovo\Desktop\MuOnline\obj\Debug\netcoreapp2.2\MuOnline.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MuOnline\obj\Debug\netcoreapp2.2\MuOnline.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\MuOnline\obj\Debug\netcoreapp2.2\MuOnline.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\MuOnline\obj\Debug\netcoreapp2.2\MuOnline.dll
+C:\Users\lenovo\Desktop\MuOnline\obj\Debug\netcoreapp2.2\MuOnline.pdb

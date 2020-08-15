@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\ExercisesSOLID\ExercisesSOLID\bin\Debug\netcoreapp2.1\ExercisesSOLID.deps.json
+C:\Users\lenovo\source\repos\ExercisesSOLID\ExercisesSOLID\bin\Debug\netcoreapp2.1\ExercisesSOLID.runtimeconfig.json
+C:\Users\lenovo\source\repos\ExercisesSOLID\ExercisesSOLID\bin\Debug\netcoreapp2.1\ExercisesSOLID.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\ExercisesSOLID\ExercisesSOLID\bin\Debug\netcoreapp2.1\ExercisesSOLID.dll
+C:\Users\lenovo\source\repos\ExercisesSOLID\ExercisesSOLID\bin\Debug\netcoreapp2.1\ExercisesSOLID.pdb
+C:\Users\lenovo\source\repos\ExercisesSOLID\ExercisesSOLID\obj\Debug\netcoreapp2.1\ExercisesSOLID.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\ExercisesSOLID\ExercisesSOLID\obj\Debug\netcoreapp2.1\ExercisesSOLID.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\ExercisesSOLID\ExercisesSOLID\obj\Debug\netcoreapp2.1\ExercisesSOLID.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\ExercisesSOLID\ExercisesSOLID\obj\Debug\netcoreapp2.1\ExercisesSOLID.dll
+C:\Users\lenovo\source\repos\ExercisesSOLID\ExercisesSOLID\obj\Debug\netcoreapp2.1\ExercisesSOLID.pdb

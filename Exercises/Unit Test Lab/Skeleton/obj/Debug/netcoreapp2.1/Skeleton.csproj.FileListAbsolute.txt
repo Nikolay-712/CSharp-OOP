@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\Lab\Skeleton\bin\Debug\netcoreapp2.1\Skeleton.deps.json
+C:\Users\lenovo\Desktop\Lab\Skeleton\bin\Debug\netcoreapp2.1\Skeleton.runtimeconfig.json
+C:\Users\lenovo\Desktop\Lab\Skeleton\bin\Debug\netcoreapp2.1\Skeleton.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\Lab\Skeleton\bin\Debug\netcoreapp2.1\Skeleton.dll
+C:\Users\lenovo\Desktop\Lab\Skeleton\bin\Debug\netcoreapp2.1\Skeleton.pdb
+C:\Users\lenovo\Desktop\Lab\Skeleton\obj\Debug\netcoreapp2.1\Skeleton.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Lab\Skeleton\obj\Debug\netcoreapp2.1\Skeleton.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Lab\Skeleton\obj\Debug\netcoreapp2.1\Skeleton.dll
+C:\Users\lenovo\Desktop\Lab\Skeleton\obj\Debug\netcoreapp2.1\Skeleton.pdb
+C:\Users\lenovo\Desktop\Lab\Skeleton\obj\Debug\netcoreapp2.1\Skeleton.csprojAssemblyReference.cache

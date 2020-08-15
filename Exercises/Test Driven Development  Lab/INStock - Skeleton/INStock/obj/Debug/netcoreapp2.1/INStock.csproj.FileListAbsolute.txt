@@ -1,0 +1,20 @@
+C:\Users\lenovo\Desktop\INStock - Skeleton\INStock\bin\Debug\netcoreapp2.1\INStock.deps.json
+C:\Users\lenovo\Desktop\INStock - Skeleton\INStock\bin\Debug\netcoreapp2.1\INStock.runtimeconfig.json
+C:\Users\lenovo\Desktop\INStock - Skeleton\INStock\bin\Debug\netcoreapp2.1\INStock.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\INStock - Skeleton\INStock\bin\Debug\netcoreapp2.1\INStock.dll
+C:\Users\lenovo\Desktop\INStock - Skeleton\INStock\bin\Debug\netcoreapp2.1\INStock.pdb
+C:\Users\lenovo\Desktop\INStock - Skeleton\INStock\obj\Debug\netcoreapp2.1\INStock.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\INStock - Skeleton\INStock\obj\Debug\netcoreapp2.1\INStock.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\INStock - Skeleton\INStock\obj\Debug\netcoreapp2.1\INStock.dll
+C:\Users\lenovo\Desktop\INStock - Skeleton\INStock\obj\Debug\netcoreapp2.1\INStock.pdb
+C:\Users\lenovo\Desktop\INStock - Skeleton\INStock\obj\Debug\netcoreapp2.1\INStock.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Test Driven Development  Lab\INStock - Skeleton\INStock\bin\Debug\netcoreapp2.1\INStock.deps.json
+C:\Users\lenovo\source\repos\Test Driven Development  Lab\INStock - Skeleton\INStock\bin\Debug\netcoreapp2.1\INStock.runtimeconfig.json
+C:\Users\lenovo\source\repos\Test Driven Development  Lab\INStock - Skeleton\INStock\bin\Debug\netcoreapp2.1\INStock.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Test Driven Development  Lab\INStock - Skeleton\INStock\bin\Debug\netcoreapp2.1\INStock.dll
+C:\Users\lenovo\source\repos\Test Driven Development  Lab\INStock - Skeleton\INStock\bin\Debug\netcoreapp2.1\INStock.pdb
+C:\Users\lenovo\source\repos\Test Driven Development  Lab\INStock - Skeleton\INStock\obj\Debug\netcoreapp2.1\INStock.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Test Driven Development  Lab\INStock - Skeleton\INStock\obj\Debug\netcoreapp2.1\INStock.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Test Driven Development  Lab\INStock - Skeleton\INStock\obj\Debug\netcoreapp2.1\INStock.dll
+C:\Users\lenovo\source\repos\Test Driven Development  Lab\INStock - Skeleton\INStock\obj\Debug\netcoreapp2.1\INStock.pdb
+C:\Users\lenovo\source\repos\Test Driven Development  Lab\INStock - Skeleton\INStock\obj\Debug\netcoreapp2.1\INStock.csprojAssemblyReference.cache

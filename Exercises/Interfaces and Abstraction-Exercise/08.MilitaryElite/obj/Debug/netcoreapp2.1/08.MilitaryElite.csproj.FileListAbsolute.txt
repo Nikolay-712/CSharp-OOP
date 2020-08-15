@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\08.MilitaryElite\bin\Debug\netcoreapp2.1\08.MilitaryElite.deps.json
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\08.MilitaryElite\bin\Debug\netcoreapp2.1\08.MilitaryElite.runtimeconfig.json
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\08.MilitaryElite\bin\Debug\netcoreapp2.1\08.MilitaryElite.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\08.MilitaryElite\bin\Debug\netcoreapp2.1\08.MilitaryElite.dll
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\08.MilitaryElite\bin\Debug\netcoreapp2.1\08.MilitaryElite.pdb
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\08.MilitaryElite\obj\Debug\netcoreapp2.1\08.MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\08.MilitaryElite\obj\Debug\netcoreapp2.1\08.MilitaryElite.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\08.MilitaryElite\obj\Debug\netcoreapp2.1\08.MilitaryElite.dll
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\08.MilitaryElite\obj\Debug\netcoreapp2.1\08.MilitaryElite.pdb
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\08.MilitaryElite\obj\Debug\netcoreapp2.1\08.MilitaryElite.csprojAssemblyReference.cache

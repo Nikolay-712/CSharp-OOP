@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\InheritanceExercise\01. Person\bin\Debug\netcoreapp2.1\01. Person.deps.json
+C:\Users\lenovo\source\repos\InheritanceExercise\01. Person\bin\Debug\netcoreapp2.1\01. Person.runtimeconfig.json
+C:\Users\lenovo\source\repos\InheritanceExercise\01. Person\bin\Debug\netcoreapp2.1\01. Person.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\InheritanceExercise\01. Person\bin\Debug\netcoreapp2.1\01. Person.dll
+C:\Users\lenovo\source\repos\InheritanceExercise\01. Person\bin\Debug\netcoreapp2.1\01. Person.pdb
+C:\Users\lenovo\source\repos\InheritanceExercise\01. Person\obj\Debug\netcoreapp2.1\01. Person.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\InheritanceExercise\01. Person\obj\Debug\netcoreapp2.1\01. Person.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\InheritanceExercise\01. Person\obj\Debug\netcoreapp2.1\01. Person.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\InheritanceExercise\01. Person\obj\Debug\netcoreapp2.1\01. Person.dll
+C:\Users\lenovo\source\repos\InheritanceExercise\01. Person\obj\Debug\netcoreapp2.1\01. Person.pdb

@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\InterfacesAndAbstractionLab\ConsoleApp1\obj\Debug\netcoreapp2.1\Shapes.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\InterfacesAndAbstractionLab\ConsoleApp1\obj\Debug\netcoreapp2.1\Shapes.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\InterfacesAndAbstractionLab\ConsoleApp1\obj\Debug\netcoreapp2.1\Shapes.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\InterfacesAndAbstractionLab\ConsoleApp1\bin\Debug\netcoreapp2.1\Shapes.deps.json
+C:\Users\lenovo\source\repos\InterfacesAndAbstractionLab\ConsoleApp1\bin\Debug\netcoreapp2.1\Shapes.runtimeconfig.json
+C:\Users\lenovo\source\repos\InterfacesAndAbstractionLab\ConsoleApp1\bin\Debug\netcoreapp2.1\Shapes.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\InterfacesAndAbstractionLab\ConsoleApp1\bin\Debug\netcoreapp2.1\Shapes.dll
+C:\Users\lenovo\source\repos\InterfacesAndAbstractionLab\ConsoleApp1\bin\Debug\netcoreapp2.1\Shapes.pdb
+C:\Users\lenovo\source\repos\InterfacesAndAbstractionLab\ConsoleApp1\obj\Debug\netcoreapp2.1\Shapes.dll
+C:\Users\lenovo\source\repos\InterfacesAndAbstractionLab\ConsoleApp1\obj\Debug\netcoreapp2.1\Shapes.pdb

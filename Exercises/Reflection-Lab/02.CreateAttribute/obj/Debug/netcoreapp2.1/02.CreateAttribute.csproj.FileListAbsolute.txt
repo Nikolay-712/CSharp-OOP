@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\01.Stealer\02.CreateAttribute\bin\Debug\netcoreapp2.1\02.CreateAttribute.deps.json
+C:\Users\lenovo\source\repos\01.Stealer\02.CreateAttribute\bin\Debug\netcoreapp2.1\02.CreateAttribute.runtimeconfig.json
+C:\Users\lenovo\source\repos\01.Stealer\02.CreateAttribute\bin\Debug\netcoreapp2.1\02.CreateAttribute.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\01.Stealer\02.CreateAttribute\bin\Debug\netcoreapp2.1\02.CreateAttribute.dll
+C:\Users\lenovo\source\repos\01.Stealer\02.CreateAttribute\bin\Debug\netcoreapp2.1\02.CreateAttribute.pdb
+C:\Users\lenovo\source\repos\01.Stealer\02.CreateAttribute\obj\Debug\netcoreapp2.1\02.CreateAttribute.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\01.Stealer\02.CreateAttribute\obj\Debug\netcoreapp2.1\02.CreateAttribute.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\01.Stealer\02.CreateAttribute\obj\Debug\netcoreapp2.1\02.CreateAttribute.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\01.Stealer\02.CreateAttribute\obj\Debug\netcoreapp2.1\02.CreateAttribute.dll
+C:\Users\lenovo\source\repos\01.Stealer\02.CreateAttribute\obj\Debug\netcoreapp2.1\02.CreateAttribute.pdb

@@ -1,0 +1,20 @@
+C:\Users\lenovo\Desktop\P02_BlackBoxInteger\bin\Debug\netcoreapp2.1\P02_BlackBoxInteger.deps.json
+C:\Users\lenovo\Desktop\P02_BlackBoxInteger\bin\Debug\netcoreapp2.1\P02_BlackBoxInteger.runtimeconfig.json
+C:\Users\lenovo\Desktop\P02_BlackBoxInteger\bin\Debug\netcoreapp2.1\P02_BlackBoxInteger.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\P02_BlackBoxInteger\bin\Debug\netcoreapp2.1\P02_BlackBoxInteger.dll
+C:\Users\lenovo\Desktop\P02_BlackBoxInteger\bin\Debug\netcoreapp2.1\P02_BlackBoxInteger.pdb
+C:\Users\lenovo\Desktop\P02_BlackBoxInteger\obj\Debug\netcoreapp2.1\P02_BlackBoxInteger.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\P02_BlackBoxInteger\obj\Debug\netcoreapp2.1\P02_BlackBoxInteger.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\P02_BlackBoxInteger\obj\Debug\netcoreapp2.1\P02_BlackBoxInteger.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\P02_BlackBoxInteger\obj\Debug\netcoreapp2.1\P02_BlackBoxInteger.dll
+C:\Users\lenovo\Desktop\P02_BlackBoxInteger\obj\Debug\netcoreapp2.1\P02_BlackBoxInteger.pdb
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\P02_BlackBoxInteger\bin\Debug\netcoreapp2.1\P02_BlackBoxInteger.deps.json
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\P02_BlackBoxInteger\bin\Debug\netcoreapp2.1\P02_BlackBoxInteger.runtimeconfig.json
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\P02_BlackBoxInteger\bin\Debug\netcoreapp2.1\P02_BlackBoxInteger.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\P02_BlackBoxInteger\bin\Debug\netcoreapp2.1\P02_BlackBoxInteger.dll
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\P02_BlackBoxInteger\bin\Debug\netcoreapp2.1\P02_BlackBoxInteger.pdb
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\P02_BlackBoxInteger\obj\Debug\netcoreapp2.1\P02_BlackBoxInteger.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\P02_BlackBoxInteger\obj\Debug\netcoreapp2.1\P02_BlackBoxInteger.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\P02_BlackBoxInteger\obj\Debug\netcoreapp2.1\P02_BlackBoxInteger.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\P02_BlackBoxInteger\obj\Debug\netcoreapp2.1\P02_BlackBoxInteger.dll
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\P02_BlackBoxInteger\obj\Debug\netcoreapp2.1\P02_BlackBoxInteger.pdb

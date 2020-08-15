@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Vehicles", "01.Vehicles\01.Vehicles.csproj", "{BC3E5488-E7BE-4A65-87D1-706F8275FED2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.WildFarm", "03.WildFarm\03.WildFarm.csproj", "{9E1D72E2-392B-423B-8A99-66C735BC02FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC3E5488-E7BE-4A65-87D1-706F8275FED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC3E5488-E7BE-4A65-87D1-706F8275FED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC3E5488-E7BE-4A65-87D1-706F8275FED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC3E5488-E7BE-4A65-87D1-706F8275FED2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E1D72E2-392B-423B-8A99-66C735BC02FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E1D72E2-392B-423B-8A99-66C735BC02FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E1D72E2-392B-423B-8A99-66C735BC02FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E1D72E2-392B-423B-8A99-66C735BC02FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BCF0BF4-79BF-4A37-8369-33FD778B8DDA}
+	EndGlobalSection
+EndGlobal

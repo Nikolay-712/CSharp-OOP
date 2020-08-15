@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\EncapsulationLab\Persons\bin\Debug\netcoreapp2.0\PersonsInfo.deps.json
+C:\Users\lenovo\source\repos\EncapsulationLab\Persons\bin\Debug\netcoreapp2.0\PersonsInfo.runtimeconfig.json
+C:\Users\lenovo\source\repos\EncapsulationLab\Persons\bin\Debug\netcoreapp2.0\PersonsInfo.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\EncapsulationLab\Persons\bin\Debug\netcoreapp2.0\PersonsInfo.dll
+C:\Users\lenovo\source\repos\EncapsulationLab\Persons\bin\Debug\netcoreapp2.0\PersonsInfo.pdb
+C:\Users\lenovo\source\repos\EncapsulationLab\Persons\obj\Debug\netcoreapp2.0\PersonsInfo.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\EncapsulationLab\Persons\obj\Debug\netcoreapp2.0\PersonsInfo.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\EncapsulationLab\Persons\obj\Debug\netcoreapp2.0\PersonsInfo.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\EncapsulationLab\Persons\obj\Debug\netcoreapp2.0\PersonsInfo.dll
+C:\Users\lenovo\source\repos\EncapsulationLab\Persons\obj\Debug\netcoreapp2.0\PersonsInfo.pdb

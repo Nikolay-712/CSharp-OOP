@@ -1,0 +1,30 @@
+C:\Users\lenovo\Desktop\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.1\StorageMaster.deps.json
+C:\Users\lenovo\Desktop\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.1\StorageMaster.runtimeconfig.json
+C:\Users\lenovo\Desktop\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.1\StorageMaster.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.1\StorageMaster.dll
+C:\Users\lenovo\Desktop\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.1\StorageMaster.pdb
+C:\Users\lenovo\Desktop\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.1\StorageMaster.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.1\StorageMaster.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.1\StorageMaster.dll
+C:\Users\lenovo\Desktop\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.1\StorageMaster.pdb
+C:\Users\lenovo\Desktop\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.1\StorageMaster.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Unit Test Exercise\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.1\StorageMaster.deps.json
+C:\Users\lenovo\Desktop\Unit Test Exercise\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.1\StorageMaster.runtimeconfig.json
+C:\Users\lenovo\Desktop\Unit Test Exercise\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.1\StorageMaster.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\Unit Test Exercise\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.1\StorageMaster.dll
+C:\Users\lenovo\Desktop\Unit Test Exercise\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.1\StorageMaster.pdb
+C:\Users\lenovo\Desktop\Unit Test Exercise\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.1\StorageMaster.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Unit Test Exercise\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.1\StorageMaster.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Unit Test Exercise\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.1\StorageMaster.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Unit Test Exercise\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.1\StorageMaster.dll
+C:\Users\lenovo\Desktop\Unit Test Exercise\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.1\StorageMaster.pdb
+C:\Users\lenovo\source\repos\Unit Test Exercise\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.1\StorageMaster.deps.json
+C:\Users\lenovo\source\repos\Unit Test Exercise\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.1\StorageMaster.runtimeconfig.json
+C:\Users\lenovo\source\repos\Unit Test Exercise\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.1\StorageMaster.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Unit Test Exercise\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.1\StorageMaster.dll
+C:\Users\lenovo\source\repos\Unit Test Exercise\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.1\StorageMaster.pdb
+C:\Users\lenovo\source\repos\Unit Test Exercise\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.1\StorageMaster.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Unit Test Exercise\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.1\StorageMaster.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Unit Test Exercise\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.1\StorageMaster.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Unit Test Exercise\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.1\StorageMaster.dll
+C:\Users\lenovo\source\repos\Unit Test Exercise\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.1\StorageMaster.pdb

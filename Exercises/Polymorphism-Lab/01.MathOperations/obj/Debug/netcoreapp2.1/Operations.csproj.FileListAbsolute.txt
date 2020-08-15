@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\PolymorphismLab\01.MathOperations\bin\Debug\netcoreapp2.1\Operations.deps.json
+C:\Users\lenovo\source\repos\PolymorphismLab\01.MathOperations\bin\Debug\netcoreapp2.1\Operations.runtimeconfig.json
+C:\Users\lenovo\source\repos\PolymorphismLab\01.MathOperations\bin\Debug\netcoreapp2.1\Operations.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\PolymorphismLab\01.MathOperations\bin\Debug\netcoreapp2.1\Operations.dll
+C:\Users\lenovo\source\repos\PolymorphismLab\01.MathOperations\bin\Debug\netcoreapp2.1\Operations.pdb
+C:\Users\lenovo\source\repos\PolymorphismLab\01.MathOperations\obj\Debug\netcoreapp2.1\Operations.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\PolymorphismLab\01.MathOperations\obj\Debug\netcoreapp2.1\Operations.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\PolymorphismLab\01.MathOperations\obj\Debug\netcoreapp2.1\Operations.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\PolymorphismLab\01.MathOperations\obj\Debug\netcoreapp2.1\Operations.dll
+C:\Users\lenovo\source\repos\PolymorphismLab\01.MathOperations\obj\Debug\netcoreapp2.1\Operations.pdb

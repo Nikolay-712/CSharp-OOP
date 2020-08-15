@@ -1,0 +1,11 @@
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\08.CreateCustomClassAttribute\bin\Debug\netcoreapp3.1\08.CreateCustomClassAttribute.exe
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\08.CreateCustomClassAttribute\bin\Debug\netcoreapp3.1\08.CreateCustomClassAttribute.deps.json
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\08.CreateCustomClassAttribute\bin\Debug\netcoreapp3.1\08.CreateCustomClassAttribute.runtimeconfig.json
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\08.CreateCustomClassAttribute\bin\Debug\netcoreapp3.1\08.CreateCustomClassAttribute.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\08.CreateCustomClassAttribute\bin\Debug\netcoreapp3.1\08.CreateCustomClassAttribute.dll
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\08.CreateCustomClassAttribute\bin\Debug\netcoreapp3.1\08.CreateCustomClassAttribute.pdb
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\08.CreateCustomClassAttribute\obj\Debug\netcoreapp3.1\08.CreateCustomClassAttribute.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\08.CreateCustomClassAttribute\obj\Debug\netcoreapp3.1\08.CreateCustomClassAttribute.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\08.CreateCustomClassAttribute\obj\Debug\netcoreapp3.1\08.CreateCustomClassAttribute.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\08.CreateCustomClassAttribute\obj\Debug\netcoreapp3.1\08.CreateCustomClassAttribute.dll
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\08.CreateCustomClassAttribute\obj\Debug\netcoreapp3.1\08.CreateCustomClassAttribute.pdb

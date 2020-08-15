@@ -1,0 +1,8 @@
+C:\Users\lenovo\Desktop\CustomLinkedList\CustomLinkedList\bin\Debug\netcoreapp2.0\CustomLinkedList.deps.json
+C:\Users\lenovo\Desktop\CustomLinkedList\CustomLinkedList\bin\Debug\netcoreapp2.0\CustomLinkedList.dll
+C:\Users\lenovo\Desktop\CustomLinkedList\CustomLinkedList\bin\Debug\netcoreapp2.0\CustomLinkedList.pdb
+C:\Users\lenovo\Desktop\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp2.0\CustomLinkedList.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp2.0\CustomLinkedList.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp2.0\CustomLinkedList.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp2.0\CustomLinkedList.dll
+C:\Users\lenovo\Desktop\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp2.0\CustomLinkedList.pdb

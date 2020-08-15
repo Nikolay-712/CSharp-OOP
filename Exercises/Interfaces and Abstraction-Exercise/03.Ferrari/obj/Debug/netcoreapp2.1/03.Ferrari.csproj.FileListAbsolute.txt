@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\03.Ferrari\bin\Debug\netcoreapp2.1\03.Ferrari.deps.json
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\03.Ferrari\bin\Debug\netcoreapp2.1\03.Ferrari.runtimeconfig.json
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\03.Ferrari\bin\Debug\netcoreapp2.1\03.Ferrari.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\03.Ferrari\bin\Debug\netcoreapp2.1\03.Ferrari.dll
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\03.Ferrari\bin\Debug\netcoreapp2.1\03.Ferrari.pdb
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\03.Ferrari\obj\Debug\netcoreapp2.1\03.Ferrari.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\03.Ferrari\obj\Debug\netcoreapp2.1\03.Ferrari.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\03.Ferrari\obj\Debug\netcoreapp2.1\03.Ferrari.dll
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\03.Ferrari\obj\Debug\netcoreapp2.1\03.Ferrari.pdb
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\03.Ferrari\obj\Debug\netcoreapp2.1\03.Ferrari.csprojAssemblyReference.cache

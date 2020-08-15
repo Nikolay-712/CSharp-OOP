@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\InheritanceLab\CustomRandomList\bin\Debug\netcoreapp2.1\CustomRandomList.deps.json
+C:\Users\lenovo\source\repos\InheritanceLab\CustomRandomList\bin\Debug\netcoreapp2.1\CustomRandomList.runtimeconfig.json
+C:\Users\lenovo\source\repos\InheritanceLab\CustomRandomList\bin\Debug\netcoreapp2.1\CustomRandomList.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\InheritanceLab\CustomRandomList\bin\Debug\netcoreapp2.1\CustomRandomList.dll
+C:\Users\lenovo\source\repos\InheritanceLab\CustomRandomList\bin\Debug\netcoreapp2.1\CustomRandomList.pdb
+C:\Users\lenovo\source\repos\InheritanceLab\CustomRandomList\obj\Debug\netcoreapp2.1\CustomRandomList.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\InheritanceLab\CustomRandomList\obj\Debug\netcoreapp2.1\CustomRandomList.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\InheritanceLab\CustomRandomList\obj\Debug\netcoreapp2.1\CustomRandomList.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\InheritanceLab\CustomRandomList\obj\Debug\netcoreapp2.1\CustomRandomList.dll
+C:\Users\lenovo\source\repos\InheritanceLab\CustomRandomList\obj\Debug\netcoreapp2.1\CustomRandomList.pdb

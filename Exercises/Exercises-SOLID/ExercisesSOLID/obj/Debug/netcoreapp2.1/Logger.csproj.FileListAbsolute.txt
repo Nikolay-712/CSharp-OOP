@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\ExercisesSOLID\ExercisesSOLID\bin\Debug\netcoreapp2.1\Logger.deps.json
+C:\Users\lenovo\source\repos\ExercisesSOLID\ExercisesSOLID\bin\Debug\netcoreapp2.1\Logger.runtimeconfig.json
+C:\Users\lenovo\source\repos\ExercisesSOLID\ExercisesSOLID\bin\Debug\netcoreapp2.1\Logger.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\ExercisesSOLID\ExercisesSOLID\bin\Debug\netcoreapp2.1\Logger.dll
+C:\Users\lenovo\source\repos\ExercisesSOLID\ExercisesSOLID\bin\Debug\netcoreapp2.1\Logger.pdb
+C:\Users\lenovo\source\repos\ExercisesSOLID\ExercisesSOLID\obj\Debug\netcoreapp2.1\Logger.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\ExercisesSOLID\ExercisesSOLID\obj\Debug\netcoreapp2.1\Logger.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\ExercisesSOLID\ExercisesSOLID\obj\Debug\netcoreapp2.1\Logger.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\ExercisesSOLID\ExercisesSOLID\obj\Debug\netcoreapp2.1\Logger.dll
+C:\Users\lenovo\source\repos\ExercisesSOLID\ExercisesSOLID\obj\Debug\netcoreapp2.1\Logger.pdb

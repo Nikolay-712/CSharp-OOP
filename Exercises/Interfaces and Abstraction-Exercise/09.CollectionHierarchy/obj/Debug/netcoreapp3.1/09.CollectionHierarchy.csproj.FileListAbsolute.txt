@@ -1,0 +1,11 @@
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\09.CollectionHierarchy\bin\Debug\netcoreapp3.1\09.CollectionHierarchy.exe
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\09.CollectionHierarchy\bin\Debug\netcoreapp3.1\09.CollectionHierarchy.deps.json
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\09.CollectionHierarchy\bin\Debug\netcoreapp3.1\09.CollectionHierarchy.runtimeconfig.json
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\09.CollectionHierarchy\bin\Debug\netcoreapp3.1\09.CollectionHierarchy.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\09.CollectionHierarchy\bin\Debug\netcoreapp3.1\09.CollectionHierarchy.dll
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\09.CollectionHierarchy\bin\Debug\netcoreapp3.1\09.CollectionHierarchy.pdb
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\09.CollectionHierarchy\obj\Debug\netcoreapp3.1\09.CollectionHierarchy.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\09.CollectionHierarchy\obj\Debug\netcoreapp3.1\09.CollectionHierarchy.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\09.CollectionHierarchy\obj\Debug\netcoreapp3.1\09.CollectionHierarchy.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\09.CollectionHierarchy\obj\Debug\netcoreapp3.1\09.CollectionHierarchy.dll
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\09.CollectionHierarchy\obj\Debug\netcoreapp3.1\09.CollectionHierarchy.pdb

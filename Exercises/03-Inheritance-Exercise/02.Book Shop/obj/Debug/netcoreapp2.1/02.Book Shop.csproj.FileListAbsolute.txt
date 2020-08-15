@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\InheritanceExercise\02.Book Shop\bin\Debug\netcoreapp2.1\02.Book Shop.deps.json
+C:\Users\lenovo\source\repos\InheritanceExercise\02.Book Shop\bin\Debug\netcoreapp2.1\02.Book Shop.runtimeconfig.json
+C:\Users\lenovo\source\repos\InheritanceExercise\02.Book Shop\bin\Debug\netcoreapp2.1\02.Book Shop.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\InheritanceExercise\02.Book Shop\bin\Debug\netcoreapp2.1\02.Book Shop.dll
+C:\Users\lenovo\source\repos\InheritanceExercise\02.Book Shop\bin\Debug\netcoreapp2.1\02.Book Shop.pdb
+C:\Users\lenovo\source\repos\InheritanceExercise\02.Book Shop\obj\Debug\netcoreapp2.1\02.Book Shop.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\InheritanceExercise\02.Book Shop\obj\Debug\netcoreapp2.1\02.Book Shop.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\InheritanceExercise\02.Book Shop\obj\Debug\netcoreapp2.1\02.Book Shop.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\InheritanceExercise\02.Book Shop\obj\Debug\netcoreapp2.1\02.Book Shop.dll
+C:\Users\lenovo\source\repos\InheritanceExercise\02.Book Shop\obj\Debug\netcoreapp2.1\02.Book Shop.pdb

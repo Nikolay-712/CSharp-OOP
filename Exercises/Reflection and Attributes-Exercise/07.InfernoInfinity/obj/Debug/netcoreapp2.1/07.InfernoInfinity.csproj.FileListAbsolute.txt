@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\07.InfernoInfinity\bin\Debug\netcoreapp2.1\07.InfernoInfinity.deps.json
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\07.InfernoInfinity\bin\Debug\netcoreapp2.1\07.InfernoInfinity.runtimeconfig.json
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\07.InfernoInfinity\bin\Debug\netcoreapp2.1\07.InfernoInfinity.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\07.InfernoInfinity\bin\Debug\netcoreapp2.1\07.InfernoInfinity.dll
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\07.InfernoInfinity\bin\Debug\netcoreapp2.1\07.InfernoInfinity.pdb
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\07.InfernoInfinity\obj\Debug\netcoreapp2.1\07.InfernoInfinity.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\07.InfernoInfinity\obj\Debug\netcoreapp2.1\07.InfernoInfinity.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\07.InfernoInfinity\obj\Debug\netcoreapp2.1\07.InfernoInfinity.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\07.InfernoInfinity\obj\Debug\netcoreapp2.1\07.InfernoInfinity.dll
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\07.InfernoInfinity\obj\Debug\netcoreapp2.1\07.InfernoInfinity.pdb

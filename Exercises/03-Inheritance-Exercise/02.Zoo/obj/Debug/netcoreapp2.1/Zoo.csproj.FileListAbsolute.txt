@@ -1,0 +1,9 @@
+C:\Users\lenovo\source\repos\InheritanceExercise\02.Zoo\bin\Debug\netcoreapp2.1\Zoo.deps.json
+C:\Users\lenovo\source\repos\InheritanceExercise\02.Zoo\bin\Debug\netcoreapp2.1\Zoo.runtimeconfig.json
+C:\Users\lenovo\source\repos\InheritanceExercise\02.Zoo\bin\Debug\netcoreapp2.1\Zoo.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\InheritanceExercise\02.Zoo\bin\Debug\netcoreapp2.1\Zoo.dll
+C:\Users\lenovo\source\repos\InheritanceExercise\02.Zoo\bin\Debug\netcoreapp2.1\Zoo.pdb
+C:\Users\lenovo\source\repos\InheritanceExercise\02.Zoo\obj\Debug\netcoreapp2.1\Zoo.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\InheritanceExercise\02.Zoo\obj\Debug\netcoreapp2.1\Zoo.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\InheritanceExercise\02.Zoo\obj\Debug\netcoreapp2.1\Zoo.dll
+C:\Users\lenovo\source\repos\InheritanceExercise\02.Zoo\obj\Debug\netcoreapp2.1\Zoo.pdb

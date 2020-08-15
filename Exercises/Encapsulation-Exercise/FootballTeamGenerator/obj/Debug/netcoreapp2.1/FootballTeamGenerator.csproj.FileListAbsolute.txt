@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\EncapsulationExercise\FootballTeamGenerator\bin\Debug\netcoreapp2.1\FootballTeamGenerator.deps.json
+C:\Users\lenovo\source\repos\EncapsulationExercise\FootballTeamGenerator\bin\Debug\netcoreapp2.1\FootballTeamGenerator.runtimeconfig.json
+C:\Users\lenovo\source\repos\EncapsulationExercise\FootballTeamGenerator\bin\Debug\netcoreapp2.1\FootballTeamGenerator.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\EncapsulationExercise\FootballTeamGenerator\bin\Debug\netcoreapp2.1\FootballTeamGenerator.dll
+C:\Users\lenovo\source\repos\EncapsulationExercise\FootballTeamGenerator\bin\Debug\netcoreapp2.1\FootballTeamGenerator.pdb
+C:\Users\lenovo\source\repos\EncapsulationExercise\FootballTeamGenerator\obj\Debug\netcoreapp2.1\FootballTeamGenerator.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\EncapsulationExercise\FootballTeamGenerator\obj\Debug\netcoreapp2.1\FootballTeamGenerator.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\EncapsulationExercise\FootballTeamGenerator\obj\Debug\netcoreapp2.1\FootballTeamGenerator.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\EncapsulationExercise\FootballTeamGenerator\obj\Debug\netcoreapp2.1\FootballTeamGenerator.dll
+C:\Users\lenovo\source\repos\EncapsulationExercise\FootballTeamGenerator\obj\Debug\netcoreapp2.1\FootballTeamGenerator.pdb

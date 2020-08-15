@@ -1,0 +1,11 @@
+C:\Users\lenovo\source\repos\InterfacesAndAbstractionLab\Cars\bin\Debug\netcoreapp3.1\Cars.exe
+C:\Users\lenovo\source\repos\InterfacesAndAbstractionLab\Cars\bin\Debug\netcoreapp3.1\Cars.deps.json
+C:\Users\lenovo\source\repos\InterfacesAndAbstractionLab\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.json
+C:\Users\lenovo\source\repos\InterfacesAndAbstractionLab\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\InterfacesAndAbstractionLab\Cars\bin\Debug\netcoreapp3.1\Cars.dll
+C:\Users\lenovo\source\repos\InterfacesAndAbstractionLab\Cars\bin\Debug\netcoreapp3.1\Cars.pdb
+C:\Users\lenovo\source\repos\InterfacesAndAbstractionLab\Cars\obj\Debug\netcoreapp3.1\Cars.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\InterfacesAndAbstractionLab\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\InterfacesAndAbstractionLab\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\InterfacesAndAbstractionLab\Cars\obj\Debug\netcoreapp3.1\Cars.dll
+C:\Users\lenovo\source\repos\InterfacesAndAbstractionLab\Cars\obj\Debug\netcoreapp3.1\Cars.pdb

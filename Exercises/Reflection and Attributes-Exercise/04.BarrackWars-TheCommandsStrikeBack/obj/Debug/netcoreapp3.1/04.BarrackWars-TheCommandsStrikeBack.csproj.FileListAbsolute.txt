@@ -1,0 +1,11 @@
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\04.BarrackWars-TheCommandsStrikeBack\bin\Debug\netcoreapp3.1\04.BarrackWars-TheCommandsStrikeBack.exe
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\04.BarrackWars-TheCommandsStrikeBack\bin\Debug\netcoreapp3.1\04.BarrackWars-TheCommandsStrikeBack.deps.json
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\04.BarrackWars-TheCommandsStrikeBack\bin\Debug\netcoreapp3.1\04.BarrackWars-TheCommandsStrikeBack.runtimeconfig.json
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\04.BarrackWars-TheCommandsStrikeBack\bin\Debug\netcoreapp3.1\04.BarrackWars-TheCommandsStrikeBack.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\04.BarrackWars-TheCommandsStrikeBack\bin\Debug\netcoreapp3.1\04.BarrackWars-TheCommandsStrikeBack.dll
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\04.BarrackWars-TheCommandsStrikeBack\bin\Debug\netcoreapp3.1\04.BarrackWars-TheCommandsStrikeBack.pdb
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\04.BarrackWars-TheCommandsStrikeBack\obj\Debug\netcoreapp3.1\04.BarrackWars-TheCommandsStrikeBack.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\04.BarrackWars-TheCommandsStrikeBack\obj\Debug\netcoreapp3.1\04.BarrackWars-TheCommandsStrikeBack.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\04.BarrackWars-TheCommandsStrikeBack\obj\Debug\netcoreapp3.1\04.BarrackWars-TheCommandsStrikeBack.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\04.BarrackWars-TheCommandsStrikeBack\obj\Debug\netcoreapp3.1\04.BarrackWars-TheCommandsStrikeBack.dll
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\04.BarrackWars-TheCommandsStrikeBack\obj\Debug\netcoreapp3.1\04.BarrackWars-TheCommandsStrikeBack.pdb

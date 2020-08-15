@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\01.Stealer\ReflectionAndAttributesLab\bin\Debug\netcoreapp2.1\ReflectionAndAttributesLab.deps.json
+C:\Users\lenovo\source\repos\01.Stealer\ReflectionAndAttributesLab\bin\Debug\netcoreapp2.1\ReflectionAndAttributesLab.runtimeconfig.json
+C:\Users\lenovo\source\repos\01.Stealer\ReflectionAndAttributesLab\bin\Debug\netcoreapp2.1\ReflectionAndAttributesLab.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\01.Stealer\ReflectionAndAttributesLab\bin\Debug\netcoreapp2.1\ReflectionAndAttributesLab.dll
+C:\Users\lenovo\source\repos\01.Stealer\ReflectionAndAttributesLab\bin\Debug\netcoreapp2.1\ReflectionAndAttributesLab.pdb
+C:\Users\lenovo\source\repos\01.Stealer\ReflectionAndAttributesLab\obj\Debug\netcoreapp2.1\ReflectionAndAttributesLab.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\01.Stealer\ReflectionAndAttributesLab\obj\Debug\netcoreapp2.1\ReflectionAndAttributesLab.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\01.Stealer\ReflectionAndAttributesLab\obj\Debug\netcoreapp2.1\ReflectionAndAttributesLab.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\01.Stealer\ReflectionAndAttributesLab\obj\Debug\netcoreapp2.1\ReflectionAndAttributesLab.dll
+C:\Users\lenovo\source\repos\01.Stealer\ReflectionAndAttributesLab\obj\Debug\netcoreapp2.1\ReflectionAndAttributesLab.pdb

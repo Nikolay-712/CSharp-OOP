@@ -1,0 +1,11 @@
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\06.TrafficLights\bin\Debug\netcoreapp3.1\06.TrafficLights.exe
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\06.TrafficLights\bin\Debug\netcoreapp3.1\06.TrafficLights.deps.json
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\06.TrafficLights\bin\Debug\netcoreapp3.1\06.TrafficLights.runtimeconfig.json
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\06.TrafficLights\bin\Debug\netcoreapp3.1\06.TrafficLights.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\06.TrafficLights\bin\Debug\netcoreapp3.1\06.TrafficLights.dll
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\06.TrafficLights\bin\Debug\netcoreapp3.1\06.TrafficLights.pdb
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\06.TrafficLights\obj\Debug\netcoreapp3.1\06.TrafficLights.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\06.TrafficLights\obj\Debug\netcoreapp3.1\06.TrafficLights.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\06.TrafficLights\obj\Debug\netcoreapp3.1\06.TrafficLights.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\06.TrafficLights\obj\Debug\netcoreapp3.1\06.TrafficLights.dll
+C:\Users\lenovo\source\repos\Reflection and Attributes-Exercise\06.TrafficLights\obj\Debug\netcoreapp3.1\06.TrafficLights.pdb

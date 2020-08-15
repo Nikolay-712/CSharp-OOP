@@ -1,0 +1,11 @@
+C:\Users\lenovo\source\repos\EncapsulationExercise\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.exe
+C:\Users\lenovo\source\repos\EncapsulationExercise\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.deps.json
+C:\Users\lenovo\source\repos\EncapsulationExercise\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.runtimeconfig.json
+C:\Users\lenovo\source\repos\EncapsulationExercise\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\EncapsulationExercise\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.dll
+C:\Users\lenovo\source\repos\EncapsulationExercise\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.pdb
+C:\Users\lenovo\source\repos\EncapsulationExercise\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\EncapsulationExercise\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\EncapsulationExercise\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\EncapsulationExercise\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.dll
+C:\Users\lenovo\source\repos\EncapsulationExercise\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.pdb

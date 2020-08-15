@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\05.BorderControl\bin\Debug\netcoreapp2.1\05.BorderControl.deps.json
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\05.BorderControl\bin\Debug\netcoreapp2.1\05.BorderControl.runtimeconfig.json
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\05.BorderControl\bin\Debug\netcoreapp2.1\05.BorderControl.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\05.BorderControl\bin\Debug\netcoreapp2.1\05.BorderControl.dll
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\05.BorderControl\bin\Debug\netcoreapp2.1\05.BorderControl.pdb
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\05.BorderControl\obj\Debug\netcoreapp2.1\05.BorderControl.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\05.BorderControl\obj\Debug\netcoreapp2.1\05.BorderControl.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\05.BorderControl\obj\Debug\netcoreapp2.1\05.BorderControl.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\05.BorderControl\obj\Debug\netcoreapp2.1\05.BorderControl.dll
+C:\Users\lenovo\source\repos\Interfaces and AbstractionExercise\05.BorderControl\obj\Debug\netcoreapp2.1\05.BorderControl.pdb
